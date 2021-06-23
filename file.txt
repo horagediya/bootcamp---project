@@ -1,0 +1,8 @@
+
+-------------------------------------------------------------
+Weather Stats for - NEPAL  || 23 Jun 2021 | 09:28:48 PM
+-------------------------------------------------------------
+Current temperature is: 21.50 deg C
+Current weather desc  :scattered clouds
+Current Humidity      :92%
+Current wind speed    :0.76kmph
