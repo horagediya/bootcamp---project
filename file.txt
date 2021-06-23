@@ -1,0 +1,8 @@
+
+-------------------------------------------------------------
+Weather Stats for - INDIA  || 23 Jun 2021 | 08:55:33 PM
+-------------------------------------------------------------
+Current temperature is: 24.84 deg C
+Current weather desc  :scattered clouds
+Current Humidity      :27%
+Current wind speed    :2.06kmph
